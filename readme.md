@@ -38,4 +38,6 @@ It will then ask you to sign in again to authorize.
 
 After this go back to netlify and click on your project
 
-give it a name
+give it a name and click deploy!
+
+Hopefully you have a deployed web page!
